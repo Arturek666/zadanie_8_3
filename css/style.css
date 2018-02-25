@@ -1,16 +1,14 @@
-h1, h2 { text-align: left; }
+h1, h2 { text-align: center; }
 
 h1, h2, p { color: white; }
 
-h1 { font-size: 38px; }
+h1 { font-size: 28px; }
 
-h2 { font-size: 32px; }
+h2 { font-size: 22px; }
 
 body { background-color: black; }
 
-.container { display: -webkit-flex; display: flex; }
-
-flex1 { flex-direction: row; }
+.container { width: 1000px; }
 
 .col-1 { width: 8.33%; }
 
